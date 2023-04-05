@@ -1,3 +1,9 @@
-Leader: JNR
+Leader: JNR SLC
 Staff: JNR
-staf lagi: FRMN
+staff lagi: FRMN
+
+Done
+
+dine
+
+
