@@ -2,7 +2,7 @@
 Program perulangan dengan while
 """
 
-jumlah_buku = 100
+jumlah_buku = 10
 print("Ibu Berkata baca semua buku mu")
 
 
