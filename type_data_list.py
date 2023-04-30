@@ -53,6 +53,7 @@ daftar_buku.pop()
 for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
 
+
 print('\nPrint pop -1 untuk menghilangkan data dari akhir data di list maka data golang akan hilang')
 daftar_buku = ['java', 'php', 'python','C++', 'golang']
 daftar_buku.pop(-1)
